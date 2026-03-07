@@ -40,6 +40,7 @@
 - **[AngelClaw](https://github.com/Abdur-rahmaanJ/angel-claw)** - Python - Lean. Compatible. Based OpenClaw. With a focus on implementing research concepts in the claw.
 - **[SupaClaw](https://github.com/vincenzodomina/supaclaw)** - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.
 - **[pickle-bot](https://github.com/czl9707/pickle-bot)** - Python - A lightweight self-hosted personal AI assistant
+- **[OpenCrabs](https://github.com/adolfousier/opencrabs)** - Rust - The self-improving autonomous AI agent. Every channel. Multi-provider LLM support, tool use, TUI, fallback chains, and cron jobs.
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
 
 
