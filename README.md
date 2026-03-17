@@ -16,7 +16,9 @@
 - **[nanobot](https://github.com/HKUDS/nanobot)** - Python - Ultra-lightweight OpenClaw-style assistant focused on research workflows, one-click deploy, MCP support, and agent social networking.
 - **[TinyClaw](https://github.com/TinyAGI/tinyclaw)** - Shell / TypeScript - Multi-agent, multi-team, multi-channel assistant where agents collaborate via chain execution and fan-out in isolated workspaces.
 - **[NanoClaw](https://github.com/qwibitai/nanoclaw)** - TypeScript - Lightweight container-sandboxed assistant designed to be simple to understand and extend via skills.
-- **[Moltis](https://github.com/moltis-org/moltis)** - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access.
+- **[Moltis](https://github.com/moltis-org/moltis)** - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel
+- **[TrinityClaw](https://github.com/TrinityClaw/trinity-claw)** - Python - Self-hosted local only AI agent with web automation, memory, code execution, email, calendar, and local/cloud LLM support.
+access.
 - **[IronClaw](https://github.com/nearai/ironclaw)** - Rust - OpenClaw-inspired personal assistant focused on privacy and security with local encrypted data and layered defenses.
 - **[NullClaw](https://github.com/nullclaw/nullclaw)** - Zig - Fully autonomous assistant infrastructure designed for tiny binaries, low memory usage, and highly portable deployment.
 - **[MimiClaw](https://github.com/memovai/mimiclaw)** - C - Pocket assistant for ESP32-S3 with no OS, low power usage, and local-first memory running continuously on USB power.
