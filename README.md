@@ -10,6 +10,9 @@
 
 
 ## Main Projects
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time AI agent monitoring dashboard for OpenClaw: tracks Gateway status, sessions, token usage & trends
+
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - TypeScript - The original full-featured personal AI assistant with multi-agent routing, voice wake, live canvas, companion apps, and 15+ messaging channels.
 - **[PicoClaw](https://github.com/sipeed/picoclaw)** - Go - Ultra-efficient assistant for low-cost hardware with AI-bootstrapped migration, single-binary deploy, and support for old Android phones.
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** - Rust - Trait-driven, zero-overhead AI infrastructure with a fully swappable core that deploys across environments.
